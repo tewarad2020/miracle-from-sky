@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WaterFall03
+  m_Name: WaterFall04(add
   m_Shader: {fileID: 4800000, guid: 26e13bf8edcdbbf41bf773cd53e524ea, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -132,7 +132,7 @@ Material:
     - _FoamDepth: 0
     - _FoamDistance: 0.57
     - _FoamFalloff: 0
-    - _FoamPower: 1
+    - _FoamPower: 0.609
     - _FoamScale: 0.2
     - _FoamSmoothness: 0
     - _FoamSpeed: 0.25
@@ -153,7 +153,7 @@ Material:
     - _NormalTiling: 0.05
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RefractionPower: 0.88
+    - _RefractionPower: 3.08
     - _SmoothnessPower: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -183,7 +183,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color0: {r: 0, g: 0.5987654, b: 1, a: 0}
     - _Color1: {r: 1, g: 0.76618373, b: 0, a: 1}
-    - _DepthColor: {r: 0, g: 0.3233528, b: 0.5647059, a: 0.5686275}
+    - _DepthColor: {r: 0.244927, g: 0.5351152, b: 0.754717, a: 0.14901961}
     - _DepthColor1: {r: 0.8867924, g: 0.8867924, b: 0.8867924, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MainColor: {r: 0, g: 0.6810271, b: 0.6886792, a: 1}
